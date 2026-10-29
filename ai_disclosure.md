@@ -1,6 +1,6 @@
 # AI Usage Disclosure
 
-**Name:** Ayan Salmanova
+**Name:** Priyanshu Sharma
 **Assignment:** Build a GPT from Scratch
 
 ## Tools Used
